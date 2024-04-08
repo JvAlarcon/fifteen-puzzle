@@ -1,0 +1,14 @@
+{
+  "name": "fifteen-puzzle",
+  "version": "1.0.0",
+  "description": "15 puzzle with ClojureScript",
+  "main": "index.js",
+  "keywords": [
+    "cljs"
+  ],
+  "author": "João Alarcon",
+  "license": "ISC",
+  "devDependencies": {
+    "shadow-cljs": "2.27.1"
+  }
+}
